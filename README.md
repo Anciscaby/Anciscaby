@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdevelopers and Webdesigns 
 - 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate on UX/UI design
-- 📫 How to reach me on Instagram --->  ancawebuje 
+- 📫 How to reach me on Instagram --->  Anca_Webdesign
 
 <!---
 🌐 I'm passionate about web design, and I believe it's the path where I truly belong. Web design is not just a job for me; it's my calling. I'm dedicated to creating websites that are not only visually stunning but also user-friendly and efficient.
